@@ -1,3 +1,3 @@
-# WebSKy
+# WebSky
 
 Extragalactic Mocks
